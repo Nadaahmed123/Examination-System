@@ -1,0 +1,14 @@
+C:\Users\Alresala\Desktop\Examination System\obj\Debug\net6.0\Examination System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alresala\Desktop\Examination System\obj\Debug\net6.0\Examination System.AssemblyInfoInputs.cache
+C:\Users\Alresala\Desktop\Examination System\obj\Debug\net6.0\Examination System.AssemblyInfo.cs
+C:\Users\Alresala\Desktop\Examination System\obj\Debug\net6.0\Examination System.csproj.CoreCompileInputs.cache
+C:\Users\Alresala\Desktop\Examination System\bin\Debug\net6.0\Examination System.exe
+C:\Users\Alresala\Desktop\Examination System\bin\Debug\net6.0\Examination System.deps.json
+C:\Users\Alresala\Desktop\Examination System\bin\Debug\net6.0\Examination System.runtimeconfig.json
+C:\Users\Alresala\Desktop\Examination System\bin\Debug\net6.0\Examination System.dll
+C:\Users\Alresala\Desktop\Examination System\bin\Debug\net6.0\Examination System.pdb
+C:\Users\Alresala\Desktop\Examination System\obj\Debug\net6.0\Examination System.dll
+C:\Users\Alresala\Desktop\Examination System\obj\Debug\net6.0\refint\Examination System.dll
+C:\Users\Alresala\Desktop\Examination System\obj\Debug\net6.0\Examination System.pdb
+C:\Users\Alresala\Desktop\Examination System\obj\Debug\net6.0\Examination System.genruntimeconfig.cache
+C:\Users\Alresala\Desktop\Examination System\obj\Debug\net6.0\ref\Examination System.dll
